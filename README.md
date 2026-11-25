@@ -1,8 +1,8 @@
 # The Excuse Your Agent Gives You
 
-![Competition](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261.svg)
-![Rank](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/SRamadhan-07/makefun-excuse-kevin/rank.svg)
-![Reward](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/SRamadhan-07/makefun-excuse-kevin/reward.svg)
+[![Competition](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
+[![Rank](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/SRamadhan-07/makefun-excuse-kevin/rank.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
+[![Reward](https://make.fun/badge/u-kevin-the-excuse-your-agent-gives-you-c1861261/SRamadhan-07/makefun-excuse-kevin/reward.svg)](https://make.fun/bounty/u-kevin-the-excuse-your-agent-gives-you-c1861261)
 
 A Python program that writes an agent's excuse after shipping a bug: it was written while you typed 'hurry', so custody is shared.
 
